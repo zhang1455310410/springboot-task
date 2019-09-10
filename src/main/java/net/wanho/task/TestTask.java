@@ -20,8 +20,9 @@ public class TestTask {
         System.out.println("执行了任务work2  "+df.format(System.currentTimeMillis()));
     }
     //修改之后判断哪里发生了变化
-
+    //测试
     public void  test(){
         System.out.println("git的使用");
+
     }
 }
