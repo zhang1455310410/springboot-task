@@ -21,4 +21,7 @@ public class TestTask {
     }
     //修改之后判断哪里发生了变化
 
+    public void  test(){
+        System.out.println("git的使用");
+    }
 }
